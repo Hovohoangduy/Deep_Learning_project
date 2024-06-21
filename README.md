@@ -1,1 +1,2 @@
 # Deep_Learning_project
+Deep learning models like CNN and EfficientNet are utilized to predict the severity of prostate cancer based on the ISUP grade system. Trained on the PANDA Challenge dataset of prostate tissue images, these models achieved high accuracy on the test set, indicating their effectiveness in predicting prostate cancer severity. This approach demonstrates the potential of deep learning in improving prostate cancer diagnosis and treatment. 
